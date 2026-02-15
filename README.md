@@ -100,14 +100,14 @@ DevVoice workflow illustrating the recording and listening flows, where develope
 
 #### Build Photos
 
-[Team](images\WIN_20260215_10_00_48_Pro.jpg)
+[Team](images/GRP_PHOTO.jpg)
 
 
 
 ## Project Demo
 
 ### Video
-[images\Screen Recording 2026-02-15 092415.mp4]
+(images/SCREEN_REC.mp4)
 
 This video briefly shows the working of DevVoice. A test code is written and the explanation for that code is recorded and played.
 
