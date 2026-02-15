@@ -86,14 +86,14 @@ A recorded voice explanation attached to a selected code block, with playback av
 
 **System Architecture:**
 
-![Architecture Diagram](images\WhatsApp Image 2026-02-15 at 10.26.20 AM.jpeg)
+![Architecture Diagram](images/SYSTEM_ARCH.jpeg)
 
 DevVoice is designed as a layered VS Code extension architecture that cleanly separates user interaction, core logic, and storage.
 This ensures simplicity, scalability, and non-intrusive integration with the editor.
 
 **Application Workflow:**
 
-![Workflow](images\WhatsApp Image 2026-02-15 at 10.26.18 AM.jpeg)
+![Workflow](images/WORKFLOW.jpeg)
 
 DevVoice workflow illustrating the recording and listening flows, where developers attach voice explanations to code and later replay them in context.
 
