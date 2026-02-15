@@ -13,7 +13,7 @@
 - Member 2: Afrin Fathima Shine - Saintgits College Of Engineering
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://github.com/aamira04/shecodes.git
 
 ### Project Description
 DevVoice is a VS Code extension that allows developers to record and play voice explanations for specific code blocks.
