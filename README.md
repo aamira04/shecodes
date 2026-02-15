@@ -72,41 +72,41 @@ npm run compile
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](shecodes\images\Screenshot 2026-02-15 091813.png)
+![Screenshot1](images\Screenshot 2026-02-15 091813.png)
 Voice recording and playback features exposed as native VS Code commands for quick access during development. 
 
-![Screenshot2](shecodes\images\Screenshot 2026-02-15 091840.png)
+![Screenshot2](images\Screenshot 2026-02-15 091840.png)
 The DevVoice Recorder panel allows developers to record voice explanations linked to a selected code block and replay them directly inside VS Code.
 
-![Screenshot3](shecodes\images\Screenshot 2026-02-15 092244.png)
+![Screenshot3](images\Screenshot 2026-02-15 092244.png)
 A recorded voice explanation attached to a selected code block, with playback available directly inside the editor.
 
 #### Diagrams
 
 **System Architecture:**
 
-![Architecture Diagram](shecodes\images\WhatsApp Image 2026-02-15 at 10.26.20 AM.jpeg)
+![Architecture Diagram](images\WhatsApp Image 2026-02-15 at 10.26.20 AM.jpeg)
 
 DevVoice is designed as a layered VS Code extension architecture that cleanly separates user interaction, core logic, and storage.
 This ensures simplicity, scalability, and non-intrusive integration with the editor.
 
 **Application Workflow:**
 
-![Workflow](shecodes\images\WhatsApp Image 2026-02-15 at 10.26.18 AM.jpeg)
+![Workflow](images\WhatsApp Image 2026-02-15 at 10.26.18 AM.jpeg)
 
 DevVoice workflow illustrating the recording and listening flows, where developers attach voice explanations to code and later replay them in context.
 
 
 #### Build Photos
 
-[Team](shecodes\images\WIN_20260215_10_00_48_Pro.jpg)
+[Team](images\WIN_20260215_10_00_48_Pro.jpg)
 
 
 
 ## Project Demo
 
 ### Video
-[shecodes\images\Screen Recording 2026-02-15 092415.mp4]
+[images\Screen Recording 2026-02-15 092415.mp4]
 
 This video briefly shows the working of DevVoice. A test code is written and the explanation for that code is recorded and played.
 
