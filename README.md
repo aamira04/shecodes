@@ -76,7 +76,7 @@ npm run compile
 The DevVoice Recorder panel allows developers to record voice explanations linked to a selected code block and replay them directly inside VS Code.
 Voice recording and playback features exposed as native VS Code commands for quick access during development. 
 
-![Screenshot2](images\Screenshot 2026-02-15 091840.png)
+![Screenshot2](images/SS2.png)
 .Voice recording and playback features exposed as native VS Code commands for quick access during development. 
 
 ![Screenshot3](images\Screenshot 2026-02-15 092244.png)
