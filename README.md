@@ -72,7 +72,7 @@ npm run compile
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](images\SS1.png)
+![Screenshot1](images/SS1.png)
 Voice recording and playback features exposed as native VS Code commands for quick access during development. 
 
 ![Screenshot2](images\Screenshot 2026-02-15 091840.png)
