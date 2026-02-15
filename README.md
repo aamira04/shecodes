@@ -77,7 +77,7 @@ The DevVoice Recorder panel allows developers to record voice explanations linke
 Voice recording and playback features exposed as native VS Code commands for quick access during development. 
 
 ![Screenshot2](images/SS2.png)
-.Voice recording and playback features exposed as native VS Code commands for quick access during development. 
+Voice recording and playback features exposed as native VS Code commands for quick access during development. 
 
 ![Screenshot3](images\Screenshot 2026-02-15 092244.png)
 A recorded voice explanation attached to a selected code block, with playback available directly inside the editor.
